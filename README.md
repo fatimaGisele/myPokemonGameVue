@@ -1,5 +1,7 @@
 # pokemon-game
 
+demo: https://mypokemongame-vue.netlify.app/
+
 ## Project setup
 ```
 npm install
